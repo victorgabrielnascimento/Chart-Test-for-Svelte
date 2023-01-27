@@ -2,7 +2,7 @@
 
 <br>
 
-## Seja bem vindo ao meu estudo da bibliotecaa Chart.js! Usei hmtl, css e js para começar, logo vou implementar para svelte e vou deixar disponibilizado ao final deste README.md
+## Seja bem vindo ao meu estudo da bibliotecaa Chart.js! Usei hmtl, css e js para começar, logo vou implementar para svelte e vou deixar disponivel ao final deste README.md
 
 
 <p>Supondo que você já leu a descrição do repositório, na linha 13 é onde se encontram as instruções para que possa rodas o APP!</p>
