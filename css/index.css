@@ -1,0 +1,18 @@
+body{
+    background: #038c6c;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+}
+canvas{
+    border: 3px solid rgb(255, 255, 255);
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 3px 3px ;
+}
+
+/* .container{
+    position: relative;
+    margin: auto;
+    height: 400px;
+    width: 800px;
+} */
