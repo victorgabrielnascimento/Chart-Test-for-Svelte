@@ -7,7 +7,7 @@
 
 <p>Supondo que você já leu a descrição do repositório, na linha 13 é onde se encontram as instruções para que possa rodas o APP!</p>
 <br>
-<p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto foi realizado em 7 dias, o objetivo era realizar um servidor "backend" em node com a biblioteca express que pegasse os valores de uma API (https://api.weather.gov/gridpoints/TOP/31,80/forecast) e mandasse como resposta atravé de uma rota com o axios, para o servidor no "frontend" realizado em JS que apresentasse certos dados, como dias da semana, temperatura, velocidade do vento e com temperatura e ventos atual no tipo mobile com um desing próprio.
+<p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto se baseia em um gráfico focado em industria 4.0, nele podemos observer dados enviados por uma tecnologia que nos diz certas informações, claro que ele será atualizado com os dados em tempo real, baseia-se apenas em um teste para ser implementadoe no meu local de trabalho, mas te da uma breve ideia de como aplicar os códigos da biblioteca [[Chart.Js]](https://www.chartjs.org/docs/latest/charts/bar.html)</p>
 <br>
 
 ##  Pré Requisitos
