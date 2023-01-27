@@ -1,13 +1,16 @@
 body{
-    background: #038c6c;
+    background: rgb(15,19,18);
+    background: -moz-radial-gradient(circle, rgba(15,19,18,1) 30%, rgba(3,140,107,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(15,19,18,1) 30%, rgba(3,140,107,1) 100%);
+    background: radial-gradient(circle, rgba(15,19,18,1) 30%, rgba(3,140,107,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0f1312",endColorstr="#038c6b",GradientType=1);
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 10%;
 }
 canvas{
-    border: 3px solid rgb(255, 255, 255);
+    border: 3px solid #ffffff;
     background: rgb(255, 255, 255);
-    box-shadow: 0px 3px 3px ;
 }
 
 /* .container{
