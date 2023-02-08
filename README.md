@@ -5,7 +5,7 @@
 ## Seja bem vindo ao meu estudo da bibliotecaa Chart.js! Usei hmtl, css e js para começar, logo vou implementar para svelte e vou deixar disponivel ao final deste README.md
 
 
-<p>Supondo que você já leu a descrição do repositório, na linha 13 é onde se encontram as instruções para que possa rodas o APP!</p>
+<p>Supondo que você já leu a descrição do repositório, na linha 18 é onde se encontram as instruções para que possa rodas o APP!</p>
 <br>
 <p>Mas caso não tenha lido, aqui vai um breve resumo, este projeto se baseia em um gráfico focado em industria 4.0, nele podemos observer dados enviados por uma tecnologia que nos diz certas informações, claro que ele será atualizado com os dados em tempo real, baseia-se apenas em um teste para ser implementadoe no meu local de trabalho, mas te da uma breve ideia de como aplicar os códigos da biblioteca Chart.Js ==> (https://www.chartjs.org/docs/latest/charts/bar.html</p>
 <br>
